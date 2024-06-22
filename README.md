@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Youssef</h1>
-<h3 align="center">A frontend web developer</h3>
+<h1 align="left">Hi 👋, I'm Ibrahim Youssef</h1>
+<h3 align="left">A frontend web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemyoussef2020&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemyoussef2020" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **React Native , Node js**
 
-- 💬 Ask me about **React - Next - Typescript**
+- 💬 Ask me about **React , Next , Typescript**
 
 - 📫 How to reach me **ibrahimyoussef95.12@gmail.com**
 
