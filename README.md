@@ -75,8 +75,7 @@ Frontend Developer with **2+ years of experience** building scalable dashboards 
 | [**Kuttab**](https://kuttab.online/) | Nuxt · Tailwind · Vuetify | Audio recitations, teacher dashboards, Ijazat certification system, and comprehensive RBAC |
 | [**AiTech Website**](https://aitech.net.au/) | Vue · Tailwind | Company website showcasing AI applications, courses, and certifications |
 | **Full-Stack ATS System** | MERN (v1) · Vue (v2) | AI recruitment platform: CV analysis, automated scheduling, real-time notifications, candidate ranking, multi-step dynamic forms |
-| [**Tawasal**](https://twasal.vercel.app/) | Next.js · Tailwind | Early-stage Arabic social media application |
-| [**Stamina Gym**](https://dashboard-gym-frontend.onrender.com/) | React · Tailwind | Gym management & subscriptions platform |
+
 
 ---
 
