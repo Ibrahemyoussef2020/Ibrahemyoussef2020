@@ -107,7 +107,7 @@ Frontend Developer with **2+ years of experience** building scalable dashboards 
   <a href="mailto:ibrahimyoussef.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ibrahemyoussef2020" target="_blank">
+  <a href="ibrahimyoussef.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
