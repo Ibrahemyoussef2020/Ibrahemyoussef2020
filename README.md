@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Youssef</h1>
-<h3 align="center">Frontend & Full-Stack MERN Developer | React · Vue · Next.js · Node.js | 2+ Years Exp</h3>
+<h3 align="center">Frontend & Full-Stack MERN Developer | React · Vue · Next.js · Nuxt.js · Node.js | 2+ Years Exp</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahemyoussef2020&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
