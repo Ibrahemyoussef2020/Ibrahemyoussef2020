@@ -13,8 +13,6 @@ Software Engineer with **2+ years of experience** specializing in **Frontend & F
 
 ---
 
----
-
 ### 💼 Professional Experience
 
 **Frontend & Full-Stack Developer — AiTech** *(Aug 2024 – Present | 6th of October City, Egypt)*
