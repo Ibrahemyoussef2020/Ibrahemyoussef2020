@@ -50,6 +50,9 @@ Software Engineer with **2+ years of experience** specializing in **Frontend & F
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
+---
+
+
 
 ### 🚀 Featured Key Projects
 
