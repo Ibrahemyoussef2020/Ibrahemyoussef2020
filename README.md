@@ -82,9 +82,15 @@ Software Engineer with **2+ years of experience** specializing in **Frontend & F
   <a href="https://www.linkedin.com/in/ibrahim-youssef-2a65b1261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="tel:+201147359396" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-+201147359396-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+<!-- Phone Badge -->
+<a href="tel:+201147359396" target="_blank">
+  <img src="https://img.shields.io/badge/Phone-+201147359396-007ACC?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+
+<!-- WhatsApp Badge -->
+<a href="https://wa.me/201147359396" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-+201147359396-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </p>
 
 ---
