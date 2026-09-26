@@ -13,6 +13,19 @@ Software Engineer with **2+ years of experience** specializing in **Frontend & F
 
 ---
 
+---
+
+### 💼 Professional Experience
+
+**Frontend & Full-Stack Developer — AiTech** *(Aug 2024 – Present | 6th of October City, Egypt)*
+- Full-stack contributor on production systems (ATS, ERP, Legal System) — designed MongoDB schemas and Express REST APIs alongside React frontends.
+- Built large-scale production dashboards (30–40 pages) with real-time WebSocket updates serving 600+ active users.
+- Engineered dynamic form engines (20+ fields), large-dataset rendering tables, and drag-and-drop interfaces.
+- Designed middleware for authentication, RBAC, and permission-conflict resolution across multiple AI platforms.
+- Served as primary technical reference for the 5-person frontend team, conducting code reviews and mentoring junior developers.
+
+---
+
 ### 🛠️ Technical Skills
 
 **Frontend:** React.js, Vue.js, Next.js 15, Nuxt.js  
@@ -39,18 +52,6 @@ Software Engineer with **2+ years of experience** specializing in **Frontend & F
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
----
-
-### 💼 Professional Experience
-
-**Frontend & Full-Stack Developer — AiTech** *(Aug 2024 – Present | 6th of October City, Egypt)*
-- Full-stack contributor on production systems (ATS, ERP, Legal System) — designed MongoDB schemas and Express REST APIs alongside React frontends.
-- Built large-scale production dashboards (30–40 pages) with real-time WebSocket updates serving 600+ active users.
-- Engineered dynamic form engines (20+ fields), large-dataset rendering tables, and drag-and-drop interfaces.
-- Designed middleware for authentication, RBAC, and permission-conflict resolution across multiple AI platforms.
-- Served as primary technical reference for the 5-person frontend team, conducting code reviews and mentoring junior developers.
-
----
 
 ### 🚀 Featured Key Projects
 
