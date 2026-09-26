@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Youssef</h1>
-<h3 align="center">Frontend Developer | React · Vue · Next.js · Nuxt.js | 2+ Years Building AI-Powered Platforms</h3>
+<h3 align="center">Frontend & Full-Stack MERN Developer | React · Vue · Next.js · Node.js | 2+ Years Exp</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahemyoussef2020&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,106 +9,79 @@
 
 ### 📝 Professional Summary
 
-Frontend Developer with **2+ years of experience** building scalable dashboards and AI-powered web applications using **React, Vue, Next.js, and Nuxt.js**. Experienced in designing real-time systems, dynamic UI architectures, and role-based applications with secure access control (RBAC). Proven ability to collaborate with backend and AI teams, deliver production-ready platforms, and mentor junior developers. Focused on building high-performance, maintainable, and user-centric interfaces.
+Software Engineer with **2+ years of experience** specializing in **Frontend & Full-Stack MERN development**. Strong foundation in building scalable frontend architectures (React, Next.js, Vue, Nuxt) and production-ready backends (Node.js, Express, MongoDB). Experienced in real-time WebSocket/WebRTC systems, multimodal RAG AI engines, dynamic dynamic form engines, and fine-grained RBAC. Proven track record delivering large-scale production dashboards and full-stack SaaS applications.
 
 ---
 
 ### 🛠️ Technical Skills
 
-**Frontend:** React, Vue.js, Next.js, Nuxt.js  
+**Frontend:** React.js, Vue.js, Next.js 15, Nuxt.js  
+**Backend & DB:** Node.js, Express.js, MongoDB, Mongoose, MySQL, REST APIs  
 **Languages:** TypeScript, JavaScript (ES7+)  
-**State Management:** Redux, Zustand, Pinia, Vuex, React Query  
-**Styling & UI:** Tailwind CSS, Sass, Bootstrap, MUI, Vuetify  
-**APIs & Real-Time:** REST APIs, WebSockets, WebRTC, Streaming (Media/Data), Chunked File Uploads  
-**Architecture & Practices:** RBAC, Middleware, Dynamic Forms, System Design, Performance Optimization, SOLID Principles, Design Patterns, Large Data Rendering, Drag & Drop Systems, Git  
-**Currently Learning:** Full-Stack development with MERN & MEVN stacks
+**State Management:** Redux Toolkit, React Query, Zustand, Pinia, Vuex  
+**Testing:** Vitest, Jest, React Unit Testing  
+**Real-Time & Media:** WebSockets, WebRTC, Streaming (Data/Media), Chunked File Uploads  
+**Styling & UI:** Tailwind CSS, MUI, Sass, Bootstrap, Vuetify  
+**Architecture & Practices:** RBAC, Middleware, SOLID Principles, Design Patterns, System Architecture, Performance Optimization, CI/CD, Git  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Pinia-F7CA18?style=for-the-badge&logo=vue.js&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="border:2px solid white; border-radius:12px; margin:3px;" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black" style="border:2px solid white; border-radius:12px; margin:3px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
 ### 💼 Professional Experience
 
-**Frontend Developer — AiTech** *(Aug 2024 – Present | 6th of October City)*
-- Architected the frontend structure for multiple production AI-powered platforms, serving as the primary technical reference for a 5-person team
-- Built large-scale dashboards (30–40 pages) with real-time WebSocket updates for 600+ active users
-- Engineered dynamic form engines with 20+ fields, Large Data Rendering tables, and drag-and-drop interfaces
-- Designed middleware for permission conflict resolution, authentication, and fine-grained RBAC
-- Conducted weekly code reviews and mentored junior developers to independent production contribution
-
-**Frontend Developer — Freelance** *(Jan 2021 – Aug 2024 | Remote)*
-- Delivered production-ready web applications for clients in AI, education, and e-commerce sectors
-- Contributed frontend UI components and features to Gulf-region e-commerce platforms as part of cross-functional teams
-- Built full-featured platforms from scratch including bilingual interfaces, real-time elements, and AI-integrated modules
+**Frontend & Full-Stack Developer — AiTech** *(Aug 2024 – Present | 6th of October City, Egypt)*
+- Full-stack contributor on production systems (ATS, ERP, Legal System) — designed MongoDB schemas and Express REST APIs alongside React frontends.
+- Built large-scale production dashboards (30–40 pages) with real-time WebSocket updates serving 600+ active users.
+- Engineered dynamic form engines (20+ fields), large-dataset rendering tables, and drag-and-drop interfaces.
+- Designed middleware for authentication, RBAC, and permission-conflict resolution across multiple AI platforms.
+- Served as primary technical reference for the 5-person frontend team, conducting code reviews and mentoring junior developers.
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Key Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [**Unified Commerce Platform (Brand)**](https://brand-ecommerce-tau.vercel.app/) | Next.js · Redux Toolkit · Sass · MongoDB | Full-stack bilingual e-commerce storefront with POS terminal, multi-gateway payments (Stripe, Vodafone Cash, InstaPay), and real-time inventory sync via WebSockets |
-| **AI Agents Platform** | Vue · Tailwind | Modular AI system: chatbot with file uploads, brand analytics dashboard, and speaker detection/translation module with real-time dynamic rendering pipeline |
-| **Safety Monitoring System** | Vue · Tailwind | Real-time dashboard for live/recorded video streams — hazard detection, fire/water alerts, PPE compliance with JWT auth and RBAC |
-| [**Drosat**](https://drosat.com/) | Vue · Tailwind · Sass | AI-generated exams, student performance analytics, progress tracking, and digital certifications |
-| [**Kuttab**](https://kuttab.online/) | Nuxt · Tailwind · Vuetify | Audio recitations, teacher dashboards, Ijazat certification system, and comprehensive RBAC |
-| [**AiTech Website**](https://aitech.net.au/) | Vue · Tailwind | Company website showcasing AI applications, courses, and certifications |
-| **Full-Stack ATS System** | MERN (v1) · Vue (v2) | AI recruitment platform: CV analysis, automated scheduling, real-time notifications, candidate ranking, multi-step dynamic forms |
-
-
----
-
-### 🏆 Achievements
-
-- 🧑‍🏫 Mentored junior developers from onboarding to independently contributing to production systems
-- 🚀 Delivered 2+ large-scale AI-integrated platforms (30–40 pages each) from scratch to production
-- ⚡ Built flexible data layers capable of processing dynamic, changing AI API responses in real time
-- 📈 Achieved measurable performance improvements across all delivered projects **(Lighthouse: 40 → 79)**
+| Project | Stack | Description | Links |
+|---|---|---|---|
+| **AI Business Assistant Platform (Vizr)** | MERN Stack (React, TS, Node, MongoDB, Vitest) | Multi-tenant SaaS with a multimodal RAG engine (PDF, audio, video), session-based RAG isolation, and Telegram/Gmail integration. | [Frontend Repo](https://github.com/Ibrahemyoussef2020/chatbot-vizr-frontend) · [Backend Repo](https://github.com/Ibrahemyoussef2020/chatbot-vizr-backend) · [Live Demo](https://chatbot-vizr-frontend.vercel.app/) |
+| **Full-Stack E-commerce (Brand)** | Next.js 15, TypeScript, MongoDB, Jest | Multi-gateway checkout (Stripe, Vodafone Cash, InstaPay), self-hosted WebSocket order tracking, NextAuth RBAC, and Jest testing. | [GitHub Repo](https://github.com/Ibrahemyoussef2020/brand-mongo) · [Live Demo](https://brand-mongo.vercel.app) |
+| **Full-Stack ATS System (V1)** | MERN Stack, Dynamic Forms, RBAC | Sole full-stack developer: designed MongoDB schema, built Express APIs, CV pipeline, automated interview scheduling, and React UI. | — |
+| **Deep Meeting Analyzer** | Vue.js, WebSocket, PHP | Video-conferencing UI with Zoom/Meet integration, real-time WebSocket multi-language subtitles, and live AI meeting briefs. | — |
+| **Safety Monitoring System** | Vue.js, WebRTC, Pinia, ApexCharts | Real-time safety dashboard consuming WebRTC AI video overlays & WebSocket sensor data streams with custom analytics. | — |
 
 ---
 
 ### 🎓 Education & Certifications
 
-🎓 **Bachelor of Computer Science** — Al-Azhar University (2013–2017) | Grade: Very Good
+🎓 **Bachelor of Computer Science** — Al-Azhar University | Grade: Very Good
 
-- [JavaScript Algorithms & Data Structures – freeCodeCamp (2023)](https://www.freecodecamp.org/certification/fccfcfd30b0-5336-47c8-9234-85c5bbd517ce/javascript-algorithms-and-data-structures)
-- [Responsive Web Design – freeCodeCamp (2023)](https://www.freecodecamp.org/certification/fccfcfd30b0-5336-47c8-9234-85c5bbd517ce/responsive-web-design)
-- [React Challenges – Intern2Grow (2024)](https://intern2grow.pages.dev/certificate?id=151312ed-b097-4749-902c-52343ea0a17b)
+- 📜 [freeCodeCamp – JavaScript Algorithms & Data Structures (2023)](https://www.freecodecamp.org/certification/fccfcfd30b0-5336-47c8-9234-85c5bbd517ce/javascript-algorithms-and-data-structures)
+- 📜 [freeCodeCamp – Responsive Web Design (2023)](https://www.freecodecamp.org/certification/fccfcfd30b0-5336-47c8-9234-85c5bbd517ce/responsive-web-design)
+- 📜 [Intern2Grow – React Challenges (2024)](https://intern2grow.pages.dev/certificate?id=151312ed-b097-4749-902c-52343ea0a17b)
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/ibrahim-youssef-2a65b1261" target="_blank">
+  <a href="https://www.linkedin.com/in/ibrahim-youssef-2a65b1261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ibrahimyoussef.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="ibrahimyoussef.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="tel:+201147359396" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-+201147359396-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -116,10 +89,7 @@ Frontend Developer with **2+ years of experience** building scalable dashboards 
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemyoussef2020&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahemyoussef2020&show_icons=true&locale=en" alt="github stats" />
 </p>
